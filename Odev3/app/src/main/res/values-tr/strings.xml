@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">odev3</string>
+    <string name="baslik">Güneşli</string>
+    <string name="havaDurumuAcıklama1">Açık gökyüzü aralıklarla gökyüzünde bulut görülebilir</string>
+    <string name="buttonIsım">TAMAM</string>
+    <string name="chipPozitif">Güzel</string>
+    <string name="chipNegatif">Kötü</string>
+</resources>

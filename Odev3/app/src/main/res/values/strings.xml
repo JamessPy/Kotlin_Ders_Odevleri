@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">odev3</string>
+    <string name="baslik">Sunny</string>
+    <string name="havaDurumuAcıklama1">Clear sky when there are clouds above the horizon</string>
+    <string name="buttonIsım">Okey</string>
+    <string name="chipPozitif">Good</string>
+    <string name="chipNegatif">Bad</string>
+</resources>
