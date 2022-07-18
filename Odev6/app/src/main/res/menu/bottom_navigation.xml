@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Ana Sayfa"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"/>
+    <item
+        android:id="@+id/nav_notification"
+        android:title="Bildirimler"
+        android:enabled="true"
+        android:icon="@drawable/notification_icon"/>
+    <item
+        android:id="@+id/nav_addbox"
+        android:title="Ekle"
+        android:enabled="true"
+        android:icon="@drawable/add_icon"/>
+    <item
+        android:id="@+id/nav_shopping"
+        android:title="Sepetim"
+        android:enabled="true"
+        android:icon="@drawable/shopping_icon"/>
+    <item
+        android:id="@+id/nav_person"
+        android:title="Profil"
+        android:enabled="true"
+        android:icon="@drawable/person_icon"/>
+</menu>
+
